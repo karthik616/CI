@@ -3,8 +3,8 @@
 <body>
 
 <?php
-echo "PHP script!";
+echo "Testing  PHP script!";
 ?>
 
 </body>
-</html> 
+</html>
